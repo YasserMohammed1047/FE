@@ -1,0 +1,45 @@
+/* h1{
+    color:orange;
+    background-color: green;
+    font-size: 20px;
+    text-decoration: underline;
+    font-family: arial;
+    text-align:center;
+
+}
+p{
+    color:slategray;
+    text-align: center;
+    line-height: 30px;
+}
+ul{
+    /* border: 4px solid crimson; */
+   /* border-bottom: 4px dotted crimson;
+} 
+*/
+/* p.error{
+    color: red;
+}
+p.suc{
+    color: #008800;
+}
+p.suc.c{
+    border: 1px dashed #008800;
+}
+#content{
+    background-color: #ebebeb;
+    padding: 20px;
+} */
+div .error{
+    color: blue;
+}
+/* a {
+    background-color: brown;
+} */
+a[href="https://www.linkedin.com/feed/"] {
+    background-color: rgb(13, 128, 148) ;
+}
+#cont{
+    background-color: #ebebeb;
+    padding: 20px;
+}
