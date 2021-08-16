@@ -1,0 +1,43 @@
+/* #p1{
+    color: red;
+}
+.p2{
+    color: seagreen;
+}
+.p3{
+    color: rgb(64, 2, 122);
+} */
+/* div p {
+    background-color: violet;
+} */
+/* div#div1{
+    color: red;
+} */
+/* a[href*="fb"]{
+    background-color: #00ff6a;
+    color: white;
+    text-decoration: nono;
+    font-weight: bold;
+    text-transform: uppercase; 
+}
+a[href*="google"]{
+    color: white;
+    background: red;
+    border: 2px solid blue;
+} */
+div{
+    color: lightcoral;
+    border: 1px solid gray;
+    margin: 40px;
+    font-weight: bold;
+}
+p{
+    border: inherit;
+    margin: inherit;
+}
+
+
+
+
+
+
