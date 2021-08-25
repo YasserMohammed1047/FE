@@ -1,0 +1,12 @@
+    p{
+        color: saddlebrown;
+        font-size: 100px;
+        top: 0;
+        left: 0;
+    }
+    @media(max-width:600px){
+        p{
+            color: red;
+            font-size: 50px;
+        }
+    }

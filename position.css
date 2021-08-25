@@ -1,0 +1,19 @@
+body {
+margin: 100px;
+}
+
+.parent{
+    background: rgb(0, 136, 84);
+    height: 75vh;
+    width: 75vw;
+    padding: 1em;
+    /* position: relative; */
+}
+.child{
+    background: red;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
