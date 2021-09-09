@@ -1,0 +1,44 @@
+body {
+    margin: 80px 350px;
+    background: #23262d;
+    color: #000;
+    position: absolute;
+}
+main {
+    background: #fff;
+    position: absolute;
+    height: 387px;
+    width: 300px;
+    text-align: center;
+    border-radius: 10px;
+    padding-top: 0;
+}
+img {
+    height: 130px;
+    width: 300px;
+    border-radius: 10px;
+    position: relative;
+}
+h4 {
+    color: #ee4d6b;
+    position: relative;
+}
+h1 {
+    position: relative;
+}
+p {
+    color: #a9a5a4;
+    position: relative;
+}
+.end {
+    position: absolute;
+    background: #ee4d6b;
+}
+.read {
+    position: relative;
+    margin: 0;
+}
+.views {
+    /* position: relative; */
+    margin: 0;
+}
