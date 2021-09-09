@@ -1,0 +1,74 @@
+body{
+    margin: 50; 
+    background: rgb(2, 133, 255)
+}
+.main{
+    align-items: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+.logo{
+    height: 50px;
+    width: 50px;
+    position: fixed;
+    margin: -156px 0px 0px 0px;
+    border-radius: 27px;
+}
+.body{
+    background: rgb(255, 254, 254);
+    width: 300px;
+    height: 300px;
+    line-height: 30px;
+    border-radius: 6px;
+}
+.title{
+    text-align: center;
+    margin: 20px auto 10px;
+    font-family: -webkit-pictograph;
+}
+.username
+{
+    text-align: center;
+    height: 29px;
+    width: 85%;
+    margin: 20px auto;
+    display: block;
+    outline: none;
+    border-radius: 5px;
+    border: 1px;
+    background: #bbb;
+}
+.password
+{
+    text-align: center;
+    height: 29px;
+    width: 85%;
+    margin: 20px auto;
+    display: block;
+    outline: none;
+    border-radius: 5px;
+    border: 1px;
+    background: #bbb;
+}
+.button{
+    margin: 0px 95px 35px 95px;
+    height: 38px;
+    width: 110px;
+}
+.button1{
+    border-radius: 6px;
+    background-color: rgb(79, 77, 255);
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+.Forget_your_password{
+    margin: -17px 0px -46px 21px
+}
+.Click_Here{
+    margin: 0 0 0px 171px;
+}
+.link{
+    text-decoration: none
+}
