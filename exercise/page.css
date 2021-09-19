@@ -35,6 +35,7 @@ p {
     background: #ee4d6b;
     display: flex;
     border-radius: 0 0 10px 10px;
+    color: #fff;
 }
 .read {
     position: relative;
