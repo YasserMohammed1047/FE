@@ -7,17 +7,17 @@ body {
 main {
     background: #fff;
     position: absolute;
-    height: 387px;
+    height: 430px;
     width: 300px;
     text-align: center;
     border-radius: 10px;
     padding-top: 0;
 }
 img {
-    height: 130px;
+    height: 165px;
     width: 300px;
-    border-radius: 10px;
     position: relative;
+    border-radius: 9px 8px 0 0 ;
 }
 h4 {
     color: #ee4d6b;
@@ -33,12 +33,17 @@ p {
 .end {
     position: absolute;
     background: #ee4d6b;
+    display: flex;
+    border-radius: 0 0 10px 10px;
 }
 .read {
     position: relative;
     margin: 0;
 }
 .views {
-    /* position: relative; */
+    position: relative;
     margin: 0;
+}
+.comments {
+    position: relative;
 }
