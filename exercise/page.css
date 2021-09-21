@@ -4,7 +4,7 @@ body {
     color: #000;
     position: absolute;
 }
-main {
+.containter {
     background: #fff;
     position: absolute;
     height: 430px;
@@ -13,7 +13,7 @@ main {
     border-radius: 10px;
     padding-top: 0;
 }
-img {
+.img_in_heder {
     height: 165px;
     width: 300px;
     position: relative;
@@ -26,9 +26,10 @@ h4 {
 h1 {
     position: relative;
 }
-p {
+.Text {
     color: #a9a5a4;
     position: relative;
+    padding: 20px 15px 15px 21px;
 }
 .end {
     position: absolute;
