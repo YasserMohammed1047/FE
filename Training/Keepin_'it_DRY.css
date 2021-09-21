@@ -1,0 +1,70 @@
+body {
+margin: 0%;
+font-family: 'Lato', sans-serif;
+}
+h1 {
+    font-family: 'Cormorant Infant', serif;
+    font-weight: 700;
+    font-size: 75px;
+    margin: 0;
+}
+h2 {
+    font-size: 30px;
+    margin-top: 0;
+    font-weight: 400;
+}
+p {
+    line-height: 1.75;
+}
+a {
+    color: inherit;
+}
+.contener {
+    width: 70%;
+    margin: 0 auto;
+}
+section{
+    padding: 100px 0;
+}
+.start {
+    background: rgb(41, 62, 70);
+    color: white;
+}
+.middle {
+    background: rgb(154, 199, 195);
+    color: white;
+}
+.end {
+    background: rgb(231, 231, 231);
+    color: black;
+}
+.but{
+    display: inline-block;
+    padding: 1em 2em;
+    text-decoration: none;
+}
+.but-normal {
+    background: rgb(36, 149, 146);
+    color: white;
+}
+.but-normal:hover{
+    background: rgb(36, 128, 125);
+}
+.but-ghost{
+    border: 2px solid white;
+    color: white;
+}
+.but-ghost:hover{
+    background: white;
+    color: black;
+}
+.but-awesome{
+    background:rgb(36, 149, 146);
+    box-shadow: 0px 4px 5px -2px rgb(0, 0, 0,.6);
+    color: white;
+    transition: all ease-in-out 250ms;
+}
+.but-awesome:hover{
+    transform: translateY(-10px);
+    box-shadow: 0px 18px 8px -10px rgb(0, 0, 0,.6);
+}
